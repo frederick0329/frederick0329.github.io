@@ -18,13 +18,18 @@
     <div class="wrapper">
       <header>
         <h1>Frederick Liu</h1>
-        {% if site.github_username %}
         <p>
+        {% if site.github_username %}
             <a href="https://github.com/{{ site.github_username }}">
             <i class="fa fa-github"></i> GitHub
             </a>
-        </p>
         {% endif %}
+        {% if site.linkedin_username %}
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+            <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
+        {% endif %}
+        </p>
       </header>
             
       {{ content }}
