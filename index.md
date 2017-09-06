@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+I'm interested machine trasnlation, and deep learning. 
 
-You can use the [editor on GitHub](https://github.com/frederick0329/frederick0329.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Publications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Frederick Liu**, Han Lu, Chieh Lo, Graham Neubig.
+[_Learning Character-level Compositionality with Visual Features_](http://aclanthology.coli.uni-saarland.de/pdf/P/P17/P17-1188.pdf)
+ACL 2017 [Code](https://github.com/frederick0329/Learning-character-level)[Dataset](https://github.com/frederick0329/Wikipedia_title_dataset)
 
-### Markdown
+Shomir Wilson, Florian Schaub, Aswarth Abhilash Dara, **Frederick Liu**, Sushain Cherivirala, Pedro Giovanni Leon, Mads Schaarup Andersen, Sebastian Zimmeck, Kanthashree Mysore Sathyendra, N. Cameron Russell, Thomas B. Norton, Eduard Hovy, Joel Reidenberg, and Norman Sadeh.
+[_ The Creation and Analysis of a Website Privacy Policy Corpus_](http://aclweb.org/anthology/P16-1126)
+ACL 2016 [Dataset](https://www.usableprivacy.org/data)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shomir Wilson, Florian Schaub, Rohan Ramanath, Norman Sadeh, Fei Liu, Noah Smith and **Frederick Liu**.
+[_ Crowdsourcing Annotations of Websites' Privacy Policies: Can It Really Work?_](https://homes.cs.washington.edu/~nasmith/papers/wilson+etal.www16.pdf)
 
-```markdown
-Syntax highlighted code block
+### Preprints
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frederick0329/frederick0329.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Frederick Liu**, Han Lu, Graham Neubig.
+[_Handling Homographs in Neural Machine Translation_](https://arxiv.org/pdf/1708.06510.pdf)
+ArXiv 2017 [Evaluation Code](https://github.com/frederick0329/evaluate_word_translation)
