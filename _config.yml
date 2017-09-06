@@ -1,2 +1,4 @@
 name: Frederick Liu
 markdown: kramdown
+
+theme: jekyll-theme-minimal
