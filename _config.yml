@@ -1,2 +1,3 @@
-name: Frederick Liu
-theme: jekyll-theme-minimal
+title: Frederick Liu
+plugins:
+  - jekyll-seo-tag
