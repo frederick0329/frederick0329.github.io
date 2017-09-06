@@ -1,7 +1,5 @@
 title: Frederick Liu
+description: Frederick's Liu Personal Website, Software Engineer at Snap Inc., Graduated from CMU, LTI
 email: fliu1@cmu.cs.edu
-description: Frederick's Liu Personal Website
-Software Engineer at Snap Inc.
-Graduated from CMU, LTI
 plugins:
   - jekyll-seo-tag
