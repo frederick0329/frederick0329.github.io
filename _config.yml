@@ -2,3 +2,5 @@ title: Frederick Liu
 description: Software engineer at Snap Inc.
              Graduated from CMU, LTI.
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
