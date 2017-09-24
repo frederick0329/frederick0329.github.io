@@ -45,6 +45,11 @@
                 </a>
             </li>
             {% endif %}
+            {% if site.email %}
+            <li>
+              <a href="mailto:{{ site.email }}"></a>
+            <>/li
+            {% endif %}
         </ul>
       </header>
             
