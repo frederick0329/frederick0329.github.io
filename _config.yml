@@ -3,6 +3,6 @@ description: Frederick's Liu Personal Website; Software Engineer at Google Cloud
 email: frederick0329@gmail.com
 github_username: frederick0329
 linkedin_username: frederick-liu
-twitter_username: frederick0329
+twitter_username:
 plugins:
   - jekyll-seo-tag
